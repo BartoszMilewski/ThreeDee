@@ -6,9 +6,7 @@ It lets you rotate the diagram in 3-d using the mouse.
 For more information see my blog post about [Natural Transformations](http://bartoszmilewski.com/2015/04/07/natural-transformations/)
 in category theory.
 
-You can compile and run this program online in the [FP Complete IDE](https://www.fpcomplete.com/user/bartosz/threedee).
-
-Or, to run it locally, install the [Haskell Platform](https://www.haskell.org/platform/) 
+To run it locally, install the [Haskell Platform](https://www.haskell.org/platform/) 
 and the [Yesod web library](http://www.yesodweb.com/page/quickstart).
 
 Note: I don't like programming in JavaScript, so I implemented the bare minimum of the client side. 
